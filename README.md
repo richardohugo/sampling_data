@@ -1,7 +1,8 @@
 # sampling_data
 
 #script sampling.sh
-
+#editor --> untuk membuat script code
+chmod +x sampling.sh #run script code
 
 wget https://github.com/labusiam/dataset/raw/main/weather_data.xlsx #untuk download file xlsx
 mv weather_data.xlsx ~ #memindahkan ke direktori lokal
