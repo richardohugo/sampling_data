@@ -279,3 +279,8 @@ git status
 git add sampling.sh
 git commit -m "add sampling.sh"
 git status
+ls
+git add .
+git commit -m "pesan commit"
+git push origin main
+git log
