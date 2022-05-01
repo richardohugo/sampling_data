@@ -230,3 +230,52 @@ pwd
 editor
 text editor
 editor
+echo $PATH
+ls
+ls -al
+nano
+ls -al
+chmod +x sampling.sh
+ls -al
+ls
+ssh-keygen -o -a 100 -t ed25519 -f ~.ssh/id_ed25519
+ls
+pwd
+ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519
+ls ~/.ssh
+cat ~/.ssh/id_25519.pub
+cat ~/.ssh/id_ed25519.pub
+git push
+ls
+git remote add origin git@github.com:richardohugo/sampling_data.git
+cat .git/config
+git branch -m main
+git branch
+git push -u origin main
+ls
+git status
+git add sampling.sh
+ls
+git status
+git log
+git add .
+git commit sampling.sh
+git commit -m "First Commit"
+git add sampling.sh
+git status
+ls
+git status
+git log
+git status
+ls
+git status
+editor
+ls
+git commit -a
+git commit -m "First Commit"
+ls
+nano sampling.sh
+git status
+git add sampling.sh
+git commit -m "add sampling.sh"
+git status
